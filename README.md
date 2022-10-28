@@ -9,7 +9,8 @@ _Also you can get the most popular Universal Home Assistant Supervised one-click
 ## Description
 
 Let me introduce a one-click install interactive script for home automation and some useful selfhosted services in isolated docker containers.
-It fully functional on x86-64 and arm64 architectures (x86 and arm with exeptional, at this moment). Docker and docker-compose will be also installed if nessesary.
+It fully functional on x86-64 and arm64 architectures (x86 and arm with exeptional, at this moment). Docker and docker-compose will be also installed if necessary.
+**The Home Assistant image comes with HACS repository installed, system monitoring sensors and panels for some services.**
 
 ## Installation
 
