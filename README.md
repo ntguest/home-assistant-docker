@@ -18,7 +18,7 @@ First of all you need to update system to make sure you have all the latest upda
 apt update && apt upgrade -y && apt autoremove -y
 ```
 
-Install curl if nessesary :
+Install curl if necessary:
 
 ```bash
 apt-get install curl -y
