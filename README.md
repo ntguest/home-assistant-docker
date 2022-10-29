@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-v.0.0.1-orange)
+![](https://img.shields.io/badge/version-v.0.1.1-orange)
 [![](https://img.shields.io/badge/Contact_me_in-Telegram-blue.svg)](https://t.me/avkulikoff)
 [![](https://img.shields.io/badge/donate-Beer-yellow.svg)](https://www.buymeacoffee.com/ntguest)
 [![](https://img.shields.io/badge/donate-Yandex-blueviolet.svg)](https://yoomoney.ru/to/410011383527168)
