@@ -12,8 +12,8 @@ ________________________________________________________________________________
 
 * [Description](https://github.com/ntguest/home-assistant-docker#description)
 * [One-click installation](https://github.com/ntguest/home-assistant-docker#One-click-installation)
-* [Manual installation](https://github.com/ntguest/home-assistant-docker#Manual-installation)
-* [List of services](https://github.com/ntguest/home-assistant-docker#List-of-services)
+* [Manual installation](https://github.com/ntguest/home-assistant-docker#manual-installation-only-for-advaced-users)
+* [List of services](https://github.com/ntguest/home-assistant-docker#services-to-be-installed)
 
 ____________________________________________________________________________________________
 ## Description
