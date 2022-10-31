@@ -10,10 +10,10 @@ _Also you can get the most popular Universal Home Assistant Supervised one-click
 ____________________________________________________________________________________________
 **Contents**
 
-* [Description](https://github.com/ntguest/home-assistant-docker/edit/main/README.md#description)
-* [One-click installation](https://github.com/ntguest/home-assistant-docker/edit/main/README.md#One-click-installation)
-* [Manual installation](https://github.com/ntguest/home-assistant-docker/edit/main/README.md#Manual-installation)
-* [List of services](https://github.com/ntguest/home-assistant-docker/edit/main/README.md#List-of-services)
+* [Description](https://github.com/ntguest/home-assistant-docker#description)
+* [One-click installation](https://github.com/ntguest/home-assistant-docker#One-click-installation)
+* [Manual installation](https://github.com/ntguest/home-assistant-docker#Manual-installation)
+* [List of services](https://github.com/ntguest/home-assistant-docker#List-of-services)
 
 ____________________________________________________________________________________________
 ## Description
